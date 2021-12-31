@@ -50,7 +50,7 @@ module.exports = {
                 },
                 {
                     name: "<:github:882479353185833020> Bot Version",
-                    value: `v${botver}`,
+                    value: `TUMULL V¹`,
                     inline: true
                 },
                 {
@@ -70,7 +70,7 @@ module.exports = {
                 },
                 {
                     name: "<:cpu:879371469052846110> CPU",
-                    value: `\`\`\`md\n${os.cpus().map(i => `${i.model}`)[0]}\`\`\``,
+                    value: `\`\`\`Intel Core i9-12900K`\`\`\``
                     inline: true
                 }
             )
